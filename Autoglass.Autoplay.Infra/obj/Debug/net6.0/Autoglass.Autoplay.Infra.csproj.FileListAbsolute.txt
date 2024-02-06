@@ -1,0 +1,15 @@
+C:\Projetos\AutoPlay\autoplay-api\Autoglass.Autoplay.Infra\bin\Debug\net6.0\Autoglass.Autoplay.Infra.deps.json
+C:\Projetos\AutoPlay\autoplay-api\Autoglass.Autoplay.Infra\bin\Debug\net6.0\Autoglass.Autoplay.Infra.dll
+C:\Projetos\AutoPlay\autoplay-api\Autoglass.Autoplay.Infra\bin\Debug\net6.0\Autoglass.Autoplay.Infra.pdb
+C:\Projetos\AutoPlay\autoplay-api\Autoglass.Autoplay.Infra\bin\Debug\net6.0\Autoglass.Autoplay.Dominio.dll
+C:\Projetos\AutoPlay\autoplay-api\Autoglass.Autoplay.Infra\bin\Debug\net6.0\Autoglass.Autoplay.Dominio.pdb
+C:\Projetos\AutoPlay\autoplay-api\Autoglass.Autoplay.Infra\obj\Debug\net6.0\Autoglass.Autoplay.Infra.csproj.AssemblyReference.cache
+C:\Projetos\AutoPlay\autoplay-api\Autoglass.Autoplay.Infra\obj\Debug\net6.0\Autoglass.Autoplay.Infra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\AutoPlay\autoplay-api\Autoglass.Autoplay.Infra\obj\Debug\net6.0\Autoglass.Autoplay.Infra.AssemblyInfoInputs.cache
+C:\Projetos\AutoPlay\autoplay-api\Autoglass.Autoplay.Infra\obj\Debug\net6.0\Autoglass.Autoplay.Infra.AssemblyInfo.cs
+C:\Projetos\AutoPlay\autoplay-api\Autoglass.Autoplay.Infra\obj\Debug\net6.0\Autoglass.Autoplay.Infra.csproj.CoreCompileInputs.cache
+C:\Projetos\AutoPlay\autoplay-api\Autoglass.Autoplay.Infra\obj\Debug\net6.0\Autoglass.Autoplay.Infra.csproj.CopyComplete
+C:\Projetos\AutoPlay\autoplay-api\Autoglass.Autoplay.Infra\obj\Debug\net6.0\Autoglass.Autoplay.Infra.dll
+C:\Projetos\AutoPlay\autoplay-api\Autoglass.Autoplay.Infra\obj\Debug\net6.0\refint\Autoglass.Autoplay.Infra.dll
+C:\Projetos\AutoPlay\autoplay-api\Autoglass.Autoplay.Infra\obj\Debug\net6.0\Autoglass.Autoplay.Infra.pdb
+C:\Projetos\AutoPlay\autoplay-api\Autoglass.Autoplay.Infra\obj\Debug\net6.0\ref\Autoglass.Autoplay.Infra.dll

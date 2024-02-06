@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Autoglass.Autoplay.API</name>
+    </assembly>
+    <members>
+        <member name="M:Autoglass.Autoplay.API.Controllers.Artistas.ArtistasController.Recuperar(System.Int32)">
+            <summary>
+            Recupera um artista por Id
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Autoglass.Autoplay.API.Controllers.Artistas.ArtistasController.Listar(Autoglass.Autoplay.DataTransfer.Artistas.Request.ArtistaListarRequest)">
+            <summary>
+            Listar artistas
+            </summary>
+            <param name="request"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Autoglass.Autoplay.API.Controllers.Artistas.ArtistasController.Editar(System.Int32,Autoglass.Autoplay.DataTransfer.Artistas.Request.ArtistaRequest)">
+            <summary>
+            Editar um artista por Id
+            </summary>
+            <param name="id"></param>
+            <param name="request"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Autoglass.Autoplay.API.Controllers.Artistas.ArtistasController.ExcluirAsync(System.Int32)">
+            <summary>
+            Excluir um artista por Id
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Autoglass.Autoplay.API.Controllers.Artistas.ArtistasController.Inserir(Autoglass.Autoplay.DataTransfer.Artistas.Request.ArtistaRequest)">
+            <summary>
+             Criar artista.
+             </summary>
+             <returns></returns>
+        </member>
+    </members>
+</doc>

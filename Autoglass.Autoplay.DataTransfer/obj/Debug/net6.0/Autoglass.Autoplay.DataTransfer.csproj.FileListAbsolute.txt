@@ -1,0 +1,15 @@
+C:\Projetos\AutoPlay\autoplay-api\Autoglass.Autoplay.DataTransfer\bin\Debug\net6.0\Autoglass.Autoplay.DataTransfer.deps.json
+C:\Projetos\AutoPlay\autoplay-api\Autoglass.Autoplay.DataTransfer\bin\Debug\net6.0\Autoglass.Autoplay.DataTransfer.dll
+C:\Projetos\AutoPlay\autoplay-api\Autoglass.Autoplay.DataTransfer\bin\Debug\net6.0\Autoglass.Autoplay.DataTransfer.pdb
+C:\Projetos\AutoPlay\autoplay-api\Autoglass.Autoplay.DataTransfer\bin\Debug\net6.0\Autoglass.Autoplay.Dominio.dll
+C:\Projetos\AutoPlay\autoplay-api\Autoglass.Autoplay.DataTransfer\bin\Debug\net6.0\Autoglass.Autoplay.Dominio.pdb
+C:\Projetos\AutoPlay\autoplay-api\Autoglass.Autoplay.DataTransfer\obj\Debug\net6.0\Autoglass.Autoplay.DataTransfer.csproj.AssemblyReference.cache
+C:\Projetos\AutoPlay\autoplay-api\Autoglass.Autoplay.DataTransfer\obj\Debug\net6.0\Autoglass.Autoplay.DataTransfer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\AutoPlay\autoplay-api\Autoglass.Autoplay.DataTransfer\obj\Debug\net6.0\Autoglass.Autoplay.DataTransfer.AssemblyInfoInputs.cache
+C:\Projetos\AutoPlay\autoplay-api\Autoglass.Autoplay.DataTransfer\obj\Debug\net6.0\Autoglass.Autoplay.DataTransfer.AssemblyInfo.cs
+C:\Projetos\AutoPlay\autoplay-api\Autoglass.Autoplay.DataTransfer\obj\Debug\net6.0\Autoglass.Autoplay.DataTransfer.csproj.CoreCompileInputs.cache
+C:\Projetos\AutoPlay\autoplay-api\Autoglass.Autoplay.DataTransfer\obj\Debug\net6.0\Autoglass.Autoplay.DataTransfer.csproj.CopyComplete
+C:\Projetos\AutoPlay\autoplay-api\Autoglass.Autoplay.DataTransfer\obj\Debug\net6.0\Autoglass.Autoplay.DataTransfer.dll
+C:\Projetos\AutoPlay\autoplay-api\Autoglass.Autoplay.DataTransfer\obj\Debug\net6.0\refint\Autoglass.Autoplay.DataTransfer.dll
+C:\Projetos\AutoPlay\autoplay-api\Autoglass.Autoplay.DataTransfer\obj\Debug\net6.0\Autoglass.Autoplay.DataTransfer.pdb
+C:\Projetos\AutoPlay\autoplay-api\Autoglass.Autoplay.DataTransfer\obj\Debug\net6.0\ref\Autoglass.Autoplay.DataTransfer.dll

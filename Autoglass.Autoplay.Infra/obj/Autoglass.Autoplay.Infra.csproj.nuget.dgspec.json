@@ -1,0 +1,134 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Projetos\\AutoPlay\\autoplay-api\\Autoglass.Autoplay.Infra\\Autoglass.Autoplay.Infra.csproj": {}
+  },
+  "projects": {
+    "C:\\Projetos\\AutoPlay\\autoplay-api\\Autoglass.Autoplay.Dominio\\Autoglass.Autoplay.Dominio.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Projetos\\AutoPlay\\autoplay-api\\Autoglass.Autoplay.Dominio\\Autoglass.Autoplay.Dominio.csproj",
+        "projectName": "Autoglass.Autoplay.Dominio",
+        "projectPath": "C:\\Projetos\\AutoPlay\\autoplay-api\\Autoglass.Autoplay.Dominio\\Autoglass.Autoplay.Dominio.csproj",
+        "packagesPath": "C:\\Users\\Lucas.pinheiro\\.nuget\\packages\\",
+        "outputPath": "C:\\Projetos\\AutoPlay\\autoplay-api\\Autoglass.Autoplay.Dominio\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Lucas.pinheiro\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Projetos\\AutoPlay\\autoplay-api\\Autoglass.Autoplay.Infra\\Autoglass.Autoplay.Infra.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Projetos\\AutoPlay\\autoplay-api\\Autoglass.Autoplay.Infra\\Autoglass.Autoplay.Infra.csproj",
+        "projectName": "Autoglass.Autoplay.Infra",
+        "projectPath": "C:\\Projetos\\AutoPlay\\autoplay-api\\Autoglass.Autoplay.Infra\\Autoglass.Autoplay.Infra.csproj",
+        "packagesPath": "C:\\Users\\Lucas.pinheiro\\.nuget\\packages\\",
+        "outputPath": "C:\\Projetos\\AutoPlay\\autoplay-api\\Autoglass.Autoplay.Infra\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Lucas.pinheiro\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Projetos\\AutoPlay\\autoplay-api\\Autoglass.Autoplay.Dominio\\Autoglass.Autoplay.Dominio.csproj": {
+                "projectPath": "C:\\Projetos\\AutoPlay\\autoplay-api\\Autoglass.Autoplay.Dominio\\Autoglass.Autoplay.Dominio.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "FluentNHibernate": {
+              "target": "Package",
+              "version": "[3.3.0, )"
+            },
+            "System.Linq.Dynamic.Core": {
+              "target": "Package",
+              "version": "[1.2.12, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

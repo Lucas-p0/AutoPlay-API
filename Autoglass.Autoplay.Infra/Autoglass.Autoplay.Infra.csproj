@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>disable</Nullable>
+  </PropertyGroup>
+
+<ItemGroup>
+     <PackageReference Include="FluentNHibernate" Version="3.3.0" />
+    <PackageReference Include="System.Linq.Dynamic.Core" Version="1.2.12" />
+
+  </ItemGroup>
+
+<ItemGroup>
+  <ProjectReference Include="..\Autoglass.Autoplay.Dominio\Autoglass.Autoplay.Dominio.csproj" />
+</ItemGroup>
+</Project>

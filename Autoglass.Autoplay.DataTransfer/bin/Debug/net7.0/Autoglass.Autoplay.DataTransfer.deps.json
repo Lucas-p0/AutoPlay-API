@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Autoglass.Autoplay.DataTransfer/1.0.0": {
+        "dependencies": {
+          "Autoglass.Autoplay.Dominio": "1.0.0"
+        },
+        "runtime": {
+          "Autoglass.Autoplay.DataTransfer.dll": {}
+        }
+      },
+      "Autoglass.Autoplay.Dominio/1.0.0": {
+        "runtime": {
+          "Autoglass.Autoplay.Dominio.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Autoglass.Autoplay.DataTransfer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Autoglass.Autoplay.Dominio/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

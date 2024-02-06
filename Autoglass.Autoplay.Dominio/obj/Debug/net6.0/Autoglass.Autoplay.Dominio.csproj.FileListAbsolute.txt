@@ -1,0 +1,11 @@
+C:\Projetos\AutoPlay\autoplay-api\Autoglass.Autoplay.Dominio\bin\Debug\net6.0\Autoglass.Autoplay.Dominio.deps.json
+C:\Projetos\AutoPlay\autoplay-api\Autoglass.Autoplay.Dominio\bin\Debug\net6.0\Autoglass.Autoplay.Dominio.dll
+C:\Projetos\AutoPlay\autoplay-api\Autoglass.Autoplay.Dominio\bin\Debug\net6.0\Autoglass.Autoplay.Dominio.pdb
+C:\Projetos\AutoPlay\autoplay-api\Autoglass.Autoplay.Dominio\obj\Debug\net6.0\Autoglass.Autoplay.Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\AutoPlay\autoplay-api\Autoglass.Autoplay.Dominio\obj\Debug\net6.0\Autoglass.Autoplay.Dominio.AssemblyInfoInputs.cache
+C:\Projetos\AutoPlay\autoplay-api\Autoglass.Autoplay.Dominio\obj\Debug\net6.0\Autoglass.Autoplay.Dominio.AssemblyInfo.cs
+C:\Projetos\AutoPlay\autoplay-api\Autoglass.Autoplay.Dominio\obj\Debug\net6.0\Autoglass.Autoplay.Dominio.csproj.CoreCompileInputs.cache
+C:\Projetos\AutoPlay\autoplay-api\Autoglass.Autoplay.Dominio\obj\Debug\net6.0\Autoglass.Autoplay.Dominio.dll
+C:\Projetos\AutoPlay\autoplay-api\Autoglass.Autoplay.Dominio\obj\Debug\net6.0\refint\Autoglass.Autoplay.Dominio.dll
+C:\Projetos\AutoPlay\autoplay-api\Autoglass.Autoplay.Dominio\obj\Debug\net6.0\Autoglass.Autoplay.Dominio.pdb
+C:\Projetos\AutoPlay\autoplay-api\Autoglass.Autoplay.Dominio\obj\Debug\net6.0\ref\Autoglass.Autoplay.Dominio.dll
